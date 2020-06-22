@@ -1,0 +1,153 @@
+.parents{
+    background-image: url(../Images/bg-masthead.jpg);
+}
+
+.navbar{
+background-color: rgba(87, 87, 87, 0) !important;
+}
+
+.elements li{
+    padding: 0.8em 1.2em;
+}
+
+.headerr{
+    height: 695px;
+    background-size: 100%;
+}
+
+.text-header{
+    padding-top: 200px;
+}
+
+.text-header h1{
+    font-family: cursive;
+    letter-spacing: 0.3em;
+    font-weight: 400;
+    font-size: 5.8em;
+    color: rgba(146, 146, 146, 0.7);
+}
+
+.text-header h2{
+    padding: 1em 14em;
+    line-height: 1.7em;
+    font-size: 20px;
+    font-family: cursive;
+    color: rgba(104, 104, 104, 0.7);
+}
+
+.btn{
+    box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
+    padding: 1.25rem 2rem;
+    font-family: 'Varela Round';
+    font-size: 80%;
+    text-transform: uppercase;
+    letter-spacing: .15rem;
+    border: 0;
+}
+
+.btn-primary {
+    background-color: #64a19d;
+  }
+  
+.btn-primary:hover {
+    background-color: #4f837f;
+}
+
+.btn-primary:focus {
+background-color: #4f837f !important;
+color: white;
+}
+
+.btn-primary:active {
+    background-color: #467370 !important;
+}
+
+.about-sec{
+    background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
+}
+
+.about-sec p{
+    color: rgb(160, 160, 160) !important;
+}
+
+.about-sec p a{
+    color: #64a19d;
+    text-decoration: none;
+}
+
+.about-sec p a:hover{
+    color: #4f837f;
+}
+
+.about-sec p a:focus{
+    color: #4f837f;
+}
+
+.about-sec p a:active{
+    color: #4f837f;
+}
+
+.project-sec{
+    padding: 10em 0em;
+}
+
+.project-text{
+    border-left: 7px solid #64a19d;
+    line-height: 1.5em;
+    padding: 2em 1.8em;
+}
+
+.project-text p{font-family: cursive;}
+
+.project1{padding: 9.1em 4em;}
+
+.project1 hr{
+    border: 3px solid #467370;
+    width: 30%;
+}
+
+.project2-text{padding: 9.01em 4em;}
+
+.project2-text hr{
+    border: 3px solid #467370;
+    width: 30%;
+    float: right;
+}
+
+.subsec{
+    height: 30em;
+    background-image: url('../Images/bg-signup.jpg');
+    background-size: 100%;
+}
+
+.subcont{
+    padding: 10em 0em;
+}
+
+.subcont input{
+    padding: 1.5em 3em;
+}
+
+.subcont button{
+    padding: 1.2em 3em;
+}
+
+.card{
+    border-bottom: 5px solid #64a19d;
+}
+
+.contact i{
+    color: #44b1a9 !important;
+}
+
+.foot{background-color: black;}
+
+
+/* Jquery classes */
+.scrolled{
+    background-color: #fff !important;
+}
+
+.active{
+    border-bottom: 4px solid #44b1a9 !important;
+}
